@@ -1,3 +1,2 @@
 #!/bin/gash
-pwd
-
+cd ~
