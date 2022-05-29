@@ -1,6 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 
 Applications    Documents   Dropbox Movies Pictures
 
 Desktop Downloads   Library Music Public $
 
+=======
+ls
+>>>>>>> 12b807c5070085bb2302d649b23e4873cb26d58c
